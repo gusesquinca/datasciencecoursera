@@ -1,4 +1,4 @@
 ## This is a markdown file
 
 * Understanding Git _Hub_
-* It looks prettey *cool!*
+* It looks pretty *cool!*
